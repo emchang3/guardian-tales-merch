@@ -3,7 +3,7 @@ const { createWriteStream } = require("fs");
 const { format } = require("prettier");
 
 const blank = require("../blueprints/blank.json");
-const flat = require("../blueprints/round.json");
+const flat = require("../blueprints/flat.json");
 const implantable = require("../blueprints/implantable.json");
 const round = require("../blueprints/round.json");
 const small = require("../blueprints/small.json");
@@ -25,37 +25,41 @@ const types = {};
 
 for (const k in blueprints) {
   blueprints[k].forEach((item) => {
-    if (!items[item.name]) {
-      items[item.name] = {
-        type: item.type,
+    const { name, type, probability } = item;
+
+    if (!items[name]) {
+      items[name] = {
+        type,
         sources: [
           {
             blueprint: k,
-            probability: item.probability,
+            probability,
           },
         ],
       };
     } else {
-      items[item.name].sources.push({
+      items[name].sources.push({
         blueprint: k,
-        probability: item.probability,
+        probability,
       });
     }
   });
 }
 
 for (const k in items) {
-  if (!types[items[k].type]) {
-    types[items[k].type] = [
+  const { sources, type } = items[k];
+
+  if (!types[type]) {
+    types[type] = [
       {
         name: k,
-        sources: items[k].sources,
+        sources,
       },
     ];
   } else {
-    types[items[k].type].push({
+    types[type].push({
       name: k,
-      sources: items[k].sources,
+      sources,
     });
   }
 }

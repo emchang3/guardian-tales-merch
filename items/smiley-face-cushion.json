@@ -1,4 +1,7 @@
 {
   "type": "Unique Merch",
-  "sources": [{ "blueprint": "blank", "probability": 0.5 }]
+  "sources": [
+    { "blueprint": "blank", "probability": 0.5 },
+    { "blueprint": "flat", "probability": 3 }
+  ]
 }

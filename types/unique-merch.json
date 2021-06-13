@@ -31,12 +31,14 @@
     "name": "Mouse Nari Cushion",
     "sources": [
       { "blueprint": "blank", "probability": 0.5 },
-      { "blueprint": "flat", "probability": 3 },
       { "blueprint": "round", "probability": 3 }
     ]
   },
   {
     "name": "Smiley Face Cushion",
-    "sources": [{ "blueprint": "blank", "probability": 0.5 }]
+    "sources": [
+      { "blueprint": "blank", "probability": 0.5 },
+      { "blueprint": "flat", "probability": 3 }
+    ]
   }
 ]
