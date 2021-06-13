@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Laura's Hard Cover Diary",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "The Legend of Hyper Game Pack",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Erina Body Pillow",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Pie Backed in Hell Key Chain",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Wang Chen Pincenez",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Popular Sohee Tapestry",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Guardian Figure",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Lana's Wrist Guard",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  },
+  {
+    "name": "Elvira's Apple Candle",
+    "sources": [
+      { "blueprint": "blank", "probability": 3.56 },
+      { "blueprint": "flat", "probability": 3.56 },
+      { "blueprint": "implantable", "probability": 3.56 },
+      { "blueprint": "round", "probability": 3.56 },
+      { "blueprint": "small", "probability": 3.56 },
+      { "blueprint": "thick", "probability": 3.56 },
+      { "blueprint": "thin", "probability": 3.56 }
+    ]
+  }
+]

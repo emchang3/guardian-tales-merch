@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sealed Goddess Snow Globe",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Mayreel Cushion",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Idol Eva Light Stick",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Iron Teatan Statue",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Eugene Bike Figure",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Cecil's Hit Medley Music Box",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Yuze Photocard Set",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Aoba's Eye Mask",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  },
+  {
+    "name": "Marina's Shark Key Chain",
+    "sources": [
+      { "blueprint": "blank", "probability": 7.11 },
+      { "blueprint": "flat", "probability": 7.11 },
+      { "blueprint": "implantable", "probability": 7.11 },
+      { "blueprint": "round", "probability": 7.11 },
+      { "blueprint": "small", "probability": 7.11 },
+      { "blueprint": "thick", "probability": 7.11 },
+      { "blueprint": "thin", "probability": 7.11 }
+    ]
+  }
+]

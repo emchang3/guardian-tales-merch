@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Sample Statue of Bravery",
+    "type": "Unique Merch",
+    "probability": 0.5
+  },
+  {
+    "name": "Little Princess Figure",
+    "type": "Unique Merch",
+    "probability": 0.5
+  },
+  { "name": "Oghma Plastic Model", "type": "Unique Merch", "probability": 0.5 },
+  { "name": "Ice Witch T-shirts", "type": "Unique Merch", "probability": 0.5 },
+  { "name": "Mouse Nari Cushion", "type": "Unique Merch", "probability": 0.5 },
+  { "name": "Smiley Face Cushion", "type": "Unique Merch", "probability": 0.5 },
+  {
+    "name": "Dusk Queen Plitvice",
+    "type": "Super Costume",
+    "probability": 0.33
+  },
+  {
+    "name": "Autumn Gale Knight",
+    "type": "Super Costume",
+    "probability": 0.33
+  },
+  {
+    "name": "Jungle King Ranpang",
+    "type": "Super Costume",
+    "probability": 0.33
+  },
+  {
+    "name": "Sealed Goddess Snow Globe",
+    "type": "Rare Merch",
+    "probability": 7.11
+  },
+  { "name": "Mayreel Cushion", "type": "Rare Merch", "probability": 7.11 },
+  { "name": "Idol Eva Light Stick", "type": "Rare Merch", "probability": 7.11 },
+  { "name": "Iron Teatan Statue", "type": "Rare Merch", "probability": 7.11 },
+  { "name": "Eugene Bike Figure", "type": "Rare Merch", "probability": 7.11 },
+  {
+    "name": "Cecil's Hit Medley Music Box",
+    "type": "Rare Merch",
+    "probability": 7.11
+  },
+  { "name": "Yuze Photocard Set", "type": "Rare Merch", "probability": 7.11 },
+  { "name": "Aoba's Eye Mask", "type": "Rare Merch", "probability": 7.11 },
+  {
+    "name": "Marina's Shark Key Chain",
+    "type": "Rare Merch",
+    "probability": 7.11
+  },
+  {
+    "name": "Laura's Hard Cover Diary",
+    "type": "Normal Merch",
+    "probability": 3.56
+  },
+  {
+    "name": "The Legend of Hyper Game Pack",
+    "type": "Normal Merch",
+    "probability": 3.56
+  },
+  { "name": "Erina Body Pillow", "type": "Normal Merch", "probability": 3.56 },
+  {
+    "name": "Pie Backed in Hell Key Chain",
+    "type": "Normal Merch",
+    "probability": 3.56
+  },
+  { "name": "Wang Chen Pincenez", "type": "Normal Merch", "probability": 3.56 },
+  {
+    "name": "Popular Sohee Tapestry",
+    "type": "Normal Merch",
+    "probability": 3.56
+  },
+  { "name": "Guardian Figure", "type": "Normal Merch", "probability": 3.56 },
+  { "name": "Lana's Wrist Guard", "type": "Normal Merch", "probability": 3.56 },
+  {
+    "name": "Elvira's Apple Candle",
+    "type": "Normal Merch",
+    "probability": 3.56
+  }
+]

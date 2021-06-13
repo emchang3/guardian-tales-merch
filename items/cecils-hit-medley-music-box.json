@@ -1,0 +1,12 @@
+{
+  "type": "Rare Merch",
+  "sources": [
+    { "blueprint": "blank", "probability": 7.11 },
+    { "blueprint": "flat", "probability": 7.11 },
+    { "blueprint": "implantable", "probability": 7.11 },
+    { "blueprint": "round", "probability": 7.11 },
+    { "blueprint": "small", "probability": 7.11 },
+    { "blueprint": "thick", "probability": 7.11 },
+    { "blueprint": "thin", "probability": 7.11 }
+  ]
+}

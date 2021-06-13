@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prettier": "^2.3.1"
+  },
+  "name": "gt",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "emchang3",
+  "license": "MIT",
+  "description": "Compiles merch data for Guardian Tales. Data pulled from https://guardiantales.zendesk.com/hc/en-us/articles/360019150697-Exploration-Forge-Guide. Blueprints are the starting point, and gets compiled into individual items and types."
+}

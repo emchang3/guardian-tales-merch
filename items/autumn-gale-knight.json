@@ -1,0 +1,12 @@
+{
+  "type": "Super Costume",
+  "sources": [
+    { "blueprint": "blank", "probability": 0.33 },
+    { "blueprint": "flat", "probability": 0.33 },
+    { "blueprint": "implantable", "probability": 0.33 },
+    { "blueprint": "round", "probability": 0.33 },
+    { "blueprint": "small", "probability": 0.33 },
+    { "blueprint": "thick", "probability": 0.33 },
+    { "blueprint": "thin", "probability": 0.33 }
+  ]
+}
